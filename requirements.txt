@@ -1,3 +1,7 @@
 matplotlib
 streamlit
+<<<<<<< HEAD
 pandas
+=======
+pandas
+>>>>>>> origin/main
